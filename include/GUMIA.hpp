@@ -1,0 +1,22 @@
+void	cam(MenuEntry *entry);
+void	cam2(MenuEntry *entry);
+void	cam3(MenuEntry *entry);
+void	flsh(MenuEntry *entry);
+void	custom(MenuEntry *entry);
+void	dark(MenuEntry *entry);
+void	light(MenuEntry *entry);
+void	xray(MenuEntry *entry);
+void	fukan(MenuEntry *entry);
+void	lookme(MenuEntry *entry);
+void	tehureru(MenuEntry *entry);
+void 	udebag(MenuEntry *entry);
+//↓害悪
+void	messe_kaihi(MenuEntry *entry);
+void 	rpms(MenuEntry *entry);
+void	bunsin(MenuEntry *entry);
+void	bunsin1(MenuEntry *entry);
+void	bunsin2(MenuEntry *entry);
+void	bunsin3(MenuEntry *entry);
+void	bunsin4(MenuEntry *entry);
+void	bunsin5(MenuEntry *entry);
+void	bunsin6(MenuEntry *entry);
